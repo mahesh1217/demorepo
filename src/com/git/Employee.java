@@ -18,10 +18,6 @@ public class Employee {
 	public void setEname(String ename) {
 		this.ename = ename;
 	}
-	@Override
-	public String toString() {
-		return "Employee [eid=" + eid + ", ename=" + ename + "]";
-	}
 	
 
 }
